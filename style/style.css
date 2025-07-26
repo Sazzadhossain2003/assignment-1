@@ -36,12 +36,17 @@
     color: #222;
 }
 .btn{
+
     display: inline-block;
     padding: 12px 16px;
     background-color: rgba(0, 0, 255, 0.781);
     color: white;
     border-radius: 10px;
     font-size: 15px; 
+    
+}
+.btn:hover{
+    background-color: rgb(193, 193, 180);
 }
 
 .action{
