@@ -112,6 +112,55 @@
 .single-box p{
     font-size: 18px;
     font-weight: 200;
-    color: gray;
+    color: rgb(196, 187, 187);
     margin: 0;
+}
+.reference{
+    background-color: rgb(255, 255, 255);
+    padding: 45px;
+    text-align: center;
+}
+.reference h2{
+    font-size: 22px;
+    margin-bottom: 35px;
+}
+.reference-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+.reference-card{
+    background-color: rgb(236, 234, 234);
+    padding: 22px;
+    border-radius: 10px;
+    width: 280px;
+   box-shadow: 0 1px 4px rgb(29, 28, 28);
+   text-align: left;
+   
+}
+.stars{
+    margin-bottom: 10px;
+   
+}
+.stars img{
+    width: 18px;
+    height: 18px;
+    margin-right: 2px;
+}
+.reference-card h3{
+    margin: 10px 1px;
+    font-size: 18px;
+    
+}
+.reference-card p{
+    font-size: 15px;
+    color: rgb(3, 18, 3);
+}
+.viewer img{
+    width: 35px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 12px;
 }
