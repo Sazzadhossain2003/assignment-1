@@ -74,5 +74,44 @@
     border-radius: 30px;
 }
 .many{
-    border-radius: 50px;
+    border-radius: 50px
+}
+.section-part{
+    background-color: rgb(194, 194, 212);
+    padding: 50px 0;
+    border-radius: 24px;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+.section-box{
+    box-shadow: #fcf8f8;
+}
+.section-content{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: rgb(10, 1, 1);
+}
+.stats-box{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+}
+.single-box{
+    flex: auto;
+    min-width: 140px;
+}
+.single-box h3{
+    font-size: 30px;
+    color: rgb(2, 2, 248);
+    margin-bottom: 4px;
+}
+.single-box p{
+    font-size: 18px;
+    font-weight: 200;
+    color: gray;
+    margin: 0;
 }
