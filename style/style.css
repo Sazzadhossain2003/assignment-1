@@ -221,3 +221,41 @@ form textarea{
     display: flex;
     
 }
+.sazzad{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(248, 244, 244);
+}
+.hossain{
+    text-align: center;
+    padding: 45px 20px;
+    color: rgb(144, 113, 113);
+}
+.paragraph{
+    font-size: 27px;
+    margin-top: 12px;
+    color: rgb(161, 149, 149);
+}
+.kushtia{
+    background-color: rgb(247, 247, 249);
+    padding: 10px 0;
+}
+.navigation{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.navigation li{
+    margin: 0 10px;
+}
+.navigation a{
+    color: rgb(124, 103, 103);
+    text-decoration: none;
+    font-weight: 500px;
+}
+.navigation a:hover{
+    text-decoration: underline;
+}
